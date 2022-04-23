@@ -1,0 +1,25 @@
+{
+  "name": "31-logs-profiling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programacion-backend-17070/31-logs-profiling.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programacion-backend-17070/31-logs-profiling/issues"
+  },
+  "homepage": "https://github.com/programacion-backend-17070/31-logs-profiling#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  }
+}
