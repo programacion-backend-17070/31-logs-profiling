@@ -1,11 +1,16 @@
 const router = require('express').Router()
 const compression = require('compression')
 
+const logger = require('../logger').getLogger('rutas')
+
 const saludo = (req, res) => {
   let hi = 'hola'
+  logger.debug('calculando saludo')
   for(let i = 0; i < 1000; i++) {
     hi += ' como estas? '
   }
+
+  logger.debug('termino calculo saludo')
 
   res.send(hi)
 }

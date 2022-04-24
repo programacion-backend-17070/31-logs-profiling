@@ -1,5 +1,6 @@
+const logger = require('./logger').getLogger('app')
 const app = require('./app')
-const logger = require('./log')
+
 
 const PORT = process.env.PORT || 8080
 

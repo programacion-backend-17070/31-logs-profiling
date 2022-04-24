@@ -1,0 +1,18 @@
+{"level":"info","message":"Application has started with PID: 22757"}
+{"level":"info","message":"Server listening on http://localhost:8080"}
+{"level":"error","message":"No se puede dividir entre 0"}
+{"level":"warn","message":"navegacion a ruta que no existe: /favicon.ico"}
+{"level":"info","message":"Application has started with PID: 22831"}
+{"level":"info","message":"Server listening on http://localhost:8080"}
+{"level":"info","message":"Application has started with PID: 22896"}
+{"level":"info","message":"Server listening on http://localhost:8080"}
+{"level":"info","message":"Application has started with PID: 22948"}
+{"level":"info","message":"Server listening on http://localhost:8080"}
+{"level":"error","message":"No se puede dividir entre 0"}
+{"level":"warn","message":"navegacion a ruta que no existe: /favicon.ico"}
+2022-04-23T17:18:37.233Z info: Application has started with PID: 23011
+2022-04-23T17:18:37.234Z info: Server listening on http://localhost:8080
+2022-04-23T17:19:01.757Z warn: navegacion a ruta que no existe: /divisidon
+2022-04-23T17:19:01.825Z warn: navegacion a ruta que no existe: /favicon.ico
+2022-04-23T18:04:54.176Z info: Application has started with PID: 23596
+2022-04-23T18:04:54.176Z info: Server listening on http://localhost:8080
