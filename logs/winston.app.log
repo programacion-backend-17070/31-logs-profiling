@@ -1,0 +1,6 @@
+{"level":"info","message":"Application has started with PID: 31865"}
+{"level":"info","message":"Server listening on http://localhost:8080"}
+{"level":"error","message":"No se puede dividir entre 0"}
+{"level":"warn","message":"la ruta no existe"}
+2022-04-25T14:32:17.709Z info: Application has started with PID: 31959
+2022-04-25T14:32:17.709Z info: Server listening on http://localhost:8080

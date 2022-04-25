@@ -1,0 +1,4 @@
+{"level":30,"time":1650897491629,"pid":32178,"hostname":"MacBook-Pro.local","msg":"Application has started with PID: 32178"}
+{"level":30,"time":1650897491630,"pid":32178,"hostname":"MacBook-Pro.local","msg":"Server listening on http://localhost:8080"}
+{"level":50,"time":1650897534600,"pid":32178,"hostname":"MacBook-Pro.local","msg":"No se puede dividir entre 0"}
+{"level":40,"time":1650897534716,"pid":32178,"hostname":"MacBook-Pro.local","msg":"la ruta no existe"}

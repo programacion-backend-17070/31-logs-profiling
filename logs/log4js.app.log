@@ -1,0 +1,16 @@
+[2022-04-25T09:14:25.891] [INFO] app - Application has started with PID: 31426
+[2022-04-25T09:14:25.895] [INFO] app - Server listening on http://localhost:8080
+[2022-04-25T09:16:16.460] [INFO] app - Application has started with PID: 31499
+[2022-04-25T09:16:16.463] [INFO] app - Server listening on http://localhost:8080
+[2022-04-25T09:16:23.918] [WARN] app - la ruta no existe
+[2022-04-25T09:16:24.116] [WARN] app - la ruta no existe
+[2022-04-25T09:16:46.900] [WARN] app - la ruta no existe
+[2022-04-25T09:16:47.053] [WARN] app - la ruta no existe
+[2022-04-25T09:21:01.432] [INFO] app - Application has started with PID: 31616
+[2022-04-25T09:21:01.436] [INFO] app - Server listening on http://localhost:8080
+[2022-04-25T09:21:22.194] [ERROR] app - No se puede dividir entre 0 undefined
+[2022-04-25T09:21:22.340] [WARN] app - la ruta no existe
+[2022-04-25T09:22:13.796] [INFO] app - Application has started with PID: 31676
+[2022-04-25T09:22:13.799] [INFO] app - Server listening on http://localhost:8080
+[2022-04-25T09:22:17.752] [ERROR] app - No se puede dividir entre 0
+[2022-04-25T09:22:17.790] [WARN] app - la ruta no existe
